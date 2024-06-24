@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/amplication/amplication/libs/util/code-gen-types/src/models.ts
