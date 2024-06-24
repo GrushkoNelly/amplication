@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/amplication/amplication/ee/packages/git-sync-manager/src/models.ts
