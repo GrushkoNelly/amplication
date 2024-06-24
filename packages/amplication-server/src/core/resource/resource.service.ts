@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/amplication/amplication/packages/amplication-server/src/core/resource/resource.service.ts
